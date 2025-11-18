@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href= https://www.r-inla.org/> R-INLA </a> | <a href= https://www.kaust.edu.sa/en/> KAUST </a> |  <a href= https://www.ox.ac.uk/> University of Oxford </a> | <a href= https://www.southampton.ac.uk/> University of Southampton </a> 
+subtitle: <a href= https://www.r-inla.org/> R-INLA </a> | <a href= https://www.kaust.edu.sa/en/> KAUST </a> |  <a href= https://www.ox.ac.uk/> University of Oxford </a> | <a href= https://www.southampton.ac.uk/> University of Southampton </a> | <a href= https://e.swufe.edu.cn/index.htm> SWUFE </a> 
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 
-Hi! I am **Kaichuang Yang (杨开创)**, an **incoming PhD student** in the **Statistics Program** at **King Abdullah University of Science and Technology (KAUST)**, supervised by [Prof. Håvard Rue](https://www.kaust.edu.sa/en/study/faculty/haavard-rue). My current research interests include **Statistics**, **Bayesian Optimization**, **Optimal Transport**, **Bioinformatics**, and **INLA**.
+Hi! I am **Kaichuang Yang (杨开创)**, an **incoming PhD student** in the **Statistics Program** at **King Abdullah University of Science and Technology (KAUST)**, I have the privilege of being supervised by [Prof. Håvard Rue](https://www.kaust.edu.sa/en/study/faculty/haavard-rue). My current research interests include **Statistics**, **Bayesian Optimization**, **Optimal Transport**, **Bioinformatics**, and **INLA**.
 
 Before joining KAUST, I obtained my MSc degree in Statistical Science from the **University of Oxford**, where I was honoured to work under the supervision of [Dr. Jakob Zeitler](https://www.ox.ac.uk/news-and-events/find-an-expert/jakob-zeitler) on **Bayesian Optimization**.  Earlier, I earned my BSc degree in **Mathematics with Statistics** at the **University of Southampton**, where I was fortunate to be supervised by [Prof. Wei Liu](https://www.southampton.ac.uk/people/5wxym9/professor-wei-liu). My final-year mathematics project focused on **Data-centric AI** and **Mix-sample Data Augmentation**.  I also hold a BEcon in Financial Statistics and Risk Management (Guanghua Elite Class) from the **Southwestern University of Finance and Economics (SWUFE)**, where I was kindly supervised by [Prof. Yaowu Liu](https://yaowuliu.github.io/) and completed my dissertation on **Spatio-Temporal Modelling**. My BSc at the University of Southampton is partly supported by the SWUFE Dual Degree Exchange Scholarship and the School of Statistics. 
 
