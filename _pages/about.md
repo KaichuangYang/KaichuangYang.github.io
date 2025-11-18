@@ -26,7 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-<a href='https://mapmyvisitors.com/web/1c0q9'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=f0efef&w=a&t=tt&d=-BB_BX2uXC2tVUGVgo0htzmvkKxoK41qZG3buxA63Ec&co=a8b3ba&ct=120101'/></a>
 ---
 
 
