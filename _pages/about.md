@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href= https://www.kaust.edu.sa/en/> KAUST </a> |  <a href= https://www.ox.ac.uk/> University of Oxford </a> | <a href= https://www.southampton.ac.uk/> University of Southampton </a> 
+subtitle: <a href= https://www.r-inla.org/> R-INLA </a> | <a href= https://www.kaust.edu.sa/en/> KAUST </a> |  <a href= https://www.ox.ac.uk/> University of Oxford </a> | <a href= https://www.southampton.ac.uk/> University of Southampton </a> 
 
 profile:
   align: right
